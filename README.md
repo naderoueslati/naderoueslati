@@ -1,39 +1,103 @@
+ <div align="center">
 
-<div align="center">
+# 🌿 WELCOME TO MY WORLD
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:143D20,50:267A35,100:4CAF50&height=180&section=header&text=NADER%20OUESLATI&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+```text
+        ☁️                          ☁️
+   🌳          ⛏️                         🌲
 
-# ⛏️ Welcome to My World!
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+```
 
-**Hey! I'm Neder 👋**
+### ⛏️ NEDER OUESLATI
 
-🌲 Exploring the world of programming, one block at a time.
+*Crafting ideas into reality, one block at a time.*
 
-💎 Learning, building, experimenting and improving.
+🌱 Developer in progress | 🇹🇳 Tunisia | 🎮 Minecraft enthusiast
 
-🧱 Just like Minecraft, every great project starts with one block.
-
----
-
-### 🛠️ My Crafting Table
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode" />
-
-### 📊 My Survival Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=naderoueslati&show_icons=true&theme=merko&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderoueslati&layout=compact&theme=merko&hide_border=true" width="49%" />
-
-### 🌍 My Minecraft Philosophy
-
-*"The best builds take time. So do the best developers."*
-
-### 🎮 Current Status
-
-🟢 Currently learning and building new things.
-
-💻 Working on my next project...
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naderoueslati)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:143D20&height=100&section=footer" width="100%"/>
+---
+
+## 🧑‍🌾 ABOUT ME
+
+```text
+Player: Neder
+World: The Internet
+Game Mode: Survival
+Difficulty: Hard
+Current Mission: Become a better developer
+```
+
+- 🌿 Exploring the world of web development.
+- 💎 Learning HTML, CSS, JavaScript and PHP.
+- 🏗️ Building projects and experimenting with new ideas.
+- 🎮 Minecraft player and gaming enthusiast.
+
+## 🛠️ MY CRAFTING TABLE
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+## 💎 MY INVENTORY
+
+<div align="center">
+
+| Item | Status |
+|:---:|:---|
+| 🌱 HTML | Unlocked |
+| 🌿 CSS | Unlocked |
+| ⚡ JavaScript | Learning |
+| 🐘 PHP | Learning |
+| ⛏️ Git & GitHub | Exploring |
+
+</div>
+
+## 📊 PLAYER STATISTICS
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naderoueslati&show_icons=true&theme=merko&hide_border=true&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naderoueslati&layout=compact&theme=merko&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=naderoueslati&theme=merko&hide_border=true)
+
+</div>
+
+## 🏡 MY BUILDS
+
+*Every great world starts with a single block.*
+
+Check out my repositories for my latest creations:
+
+<div align="center">
+
+[![Repositories](https://img.shields.io/badge/Explore_My_Repositories-2E7D32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naderoueslati?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌄 Thanks for visiting my world!
+
+```text
+   🌲   🌲       🏡       🌲   🌲
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+  🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫
+```
+
+*Keep mining. Keep building. Never stop exploring.*
+
+💚 **Made in Hardcore, not creative mode.**
+
+</div>
